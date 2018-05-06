@@ -8,6 +8,7 @@ def run_guessing_game
     puts "You guessed the correct number!"
   else 
     puts "The computer guessed #{numbers}."
+  if 
   #   when exit 
   #     puts "Goodbye!"
   #   end 
